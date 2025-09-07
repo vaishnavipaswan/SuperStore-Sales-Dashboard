@@ -4,7 +4,7 @@ This project is a **Power BI Sales Dashboard** for visualizing and forecasting s
 
 ## 📂 Project Structure
 
-- `data/` – Contains the dataset and PDF report.
+- `data/` – Contains the dataset both in .csv and .xlsx format.
 - `reports/` – Contains Power BI Desktop file (.pbix).
 - `README.md` – Project description.
 - `.gitignore` – Ignore unnecessary files.
