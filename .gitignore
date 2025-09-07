@@ -1,0 +1,4 @@
+*.pbix.user
+*.pbit
+*.tmp
+*.log
