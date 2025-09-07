@@ -6,6 +6,7 @@ This project is a **Power BI Sales Dashboard** for visualizing and forecasting s
 
 - `data/` – Contains the dataset both in .csv and .xlsx format.
 - `reports/` – Contains Power BI Desktop file (.pbix).
+- `output/` – Contains Power BI Dashboard Screenshots.
 - `README.md` – Project description.
 - `.gitignore` – Ignore unnecessary files.
 
