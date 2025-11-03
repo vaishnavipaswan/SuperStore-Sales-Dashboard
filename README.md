@@ -23,7 +23,7 @@ This project is a **Power BI Sales Dashboard** for visualizing and forecasting s
 
 ## 📄 Dataset
 
-The dataset is included as `MY_SALES_DATA.pdf`.
+The dataset is included as `SuperStore_Sales_Dataset.csv`.
 
 ## ⚡ How to Use
 
